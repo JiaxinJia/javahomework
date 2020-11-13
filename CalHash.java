@@ -1,3 +1,4 @@
+//每次运行，所有system.out.println内容一起出来了，根本不等我往里面输路径和文件名...不知道是咋回事...天啊...
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStream;
